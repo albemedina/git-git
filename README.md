@@ -28,6 +28,7 @@ In 2005, many of these developers stopped using this DVCS due to tension between
 Subsequently, Linus Torvalds, the chief architect of the Linux kernel, began creating Git. With the intention of creating a DVCS with a workflow design similar to that of BitKeeper, which was also fast, Git allowed for non-linear development via multiple branches, could support large projects, possessed strong mechanisms preventing corruption, and had a simple design. 
 Since its inception in 2005, Git has become one of the most utilized Version Control Systems in the world.
 
+
 # Identity Setting
 
 ## After installing Git, users should immediately set the user name and email address, which will be used for every Git commit.
